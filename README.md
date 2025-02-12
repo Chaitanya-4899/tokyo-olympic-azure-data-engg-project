@@ -1,13 +1,13 @@
 # Tokyo Olympic Azure Data Engg Project
-
+## 📌 Overview
 This is an end-to-end data engineering project using Azure Services which I did recently as part of my ongoing Azure Cloud Data Engineering learning journey. This project gives an in-depth exposure to critical tools like Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, and Azure Synapse Analytics.
 
 ---
-## Dataset: 
+## 📂 Dataset
 I worked with the Tokyo Olympics dataset (sourced from Kaggle), hosted on my GitHub repository.
 
 ---
-## Data Pipeline Workflow:
+## 🚀 Data Pipeline Workflow:
 - Data Ingestion:
   Used Azure Data Factory to build a pipeline, ingesting CSV files from GitHub into Azure Data Lake Storage Gen2 (ADLS).
 
